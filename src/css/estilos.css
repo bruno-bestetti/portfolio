@@ -2,7 +2,7 @@ body{
     background-image: url(../imagens/fundo4.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: justify;
 
     font-family: 'Montserrat', sans-serif, monospace;
     color: #f3f3f3;
